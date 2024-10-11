@@ -1,0 +1,314 @@
+@font-face {
+    font-family: 'Acumin Pro ExtraCondensed';
+    src: url('AcuminProExtraCond-BlackItalic.woff2') format('woff2'),
+        url('AcuminProExtraCond-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acumin Pro ExtraCondensed Med';
+    src: url('AcuminProExtraCond-MediumItalic.woff2') format('woff2'),
+        url('AcuminProExtraCond-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Belinda';
+    src: url('Belinda.woff2') format('woff2'),
+        url('Belinda.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arlon';
+    src: url('Arlon-SemiBold.woff2') format('woff2'),
+        url('Arlon-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica LT Std Cond Blk';
+    src: url('HelveticaLTStd-BlkCondObl.woff2') format('woff2'),
+        url('HelveticaLTStd-BlkCondObl.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dashing Unicorn';
+    src: url('DashingUnicorn.woff2') format('woff2'),
+        url('DashingUnicorn.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Beyond Infinity';
+    src: url('BeyondInfinity.woff2') format('woff2'),
+        url('BeyondInfinity.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueLT Std Med Cn';
+    src: url('HelveticaNeueLTStd-HvCnO.woff2') format('woff2'),
+        url('HelveticaNeueLTStd-HvCnO.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Heaters';
+    src: url('Heaters.woff2') format('woff2'),
+        url('Heaters.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueLT Std Med Cn';
+    src: url('HelveticaNeueLTStd-MdCnO.woff2') format('woff2'),
+        url('HelveticaNeueLTStd-MdCnO.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HighVoltage Rough';
+    src: url('HighVoltageRough.woff2') format('woff2'),
+        url('HighVoltageRough.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kufam-black';
+    src: url('Kufam-BlackItalic.woff2') format('woff2'),
+        url('Kufam-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nasalization Rg';
+    src: url('NasalizationRg-Regular.woff2') format('woff2'),
+        url('NasalizationRg-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marsh Stencil';
+    src: url('Marsh-Stencil.woff2') format('woff2'),
+        url('Marsh-Stencil.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kufam';
+    src: url('Kufam-SemiBoldItalic.woff2') format('woff2'),
+        url('Kufam-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neo Sans Std';
+    src: url('NeoSansStdRegular.woff2') format('woff2'),
+        url('NeoSansStdRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lequire';
+    src: url('LequireDEMO.woff2') format('woff2'),
+        url('LequireDEMO.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neo Sans Std';
+    src: url('NeoSansStdBold.woff2') format('woff2'),
+        url('NeoSansStdBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NeoTech bold';
+    src: url('NeoTech-Bold.woff2') format('woff2'),
+        url('NeoTech-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nexa-bold';
+    src: url('Nexa-Bold.woff2') format('woff2'),
+        url('Nexa-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neo Tech Std';
+    src: url('NeoTechStd-Regular.woff2') format('woff2'),
+        url('NeoTechStd-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nexa Book';
+    src: url('Nexa-Book.woff2') format('woff2'),
+        url('Nexa-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nexa-blk';
+    src: url('NexaBlack.woff2') format('woff2'),
+        url('NexaBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panfleta Stencil ExtBd';
+    src: url('PanfletaStencil-ExtraBold.woff2') format('woff2'),
+        url('PanfletaStencil-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panfleta Stencil';
+    src: url('PanfletaStencilBold.woff2') format('woff2'),
+        url('PanfletaStencilBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nexa regular';
+    src: url('Nexa-Regular.woff2') format('woff2'),
+        url('Nexa-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Slightly Eroded';
+    src: url('SlightlyEroded.woff2') format('woff2'),
+        url('SlightlyEroded.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SignPainter-HouseScript';
+    src: url('SignPainter-HouseScript.woff2') format('woff2'),
+        url('SignPainter-HouseScript.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SignPainter-HouseScript';
+    src: url('SignPainter-HouseScript.woff2') format('woff2'),
+        url('SignPainter-HouseScript.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Soloist Extra';
+    src: url('SoloistExtra-Italic.woff2') format('woff2'),
+        url('SoloistExtra-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Trajan Pro 3 bold';
+    src: url('TrajanPro3Bold.woff2') format('woff2'),
+        url('TrajanPro3Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Trajan Pro 3';
+    src: url('TrajanPro3SemiBold.woff2') format('woff2'),
+        url('TrajanPro3SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Supermolot Neue DemiBold Ita';
+    src: url('TTSupermolotNeue-DemBdIta.woff2') format('woff2'),
+        url('TTSupermolotNeue-DemBdIta.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Sprmlt N Trl Cnd Md';
+    src: url('TTSprmltNTrlCnd-MdIt.woff2') format('woff2'),
+        url('TTSprmltNTrlCnd-MdIt.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Supermolot Neue ExtBold Ita';
+    src: url('TTSupermolotNeue-ExtBdIta.woff2') format('woff2'),
+        url('TTSupermolotNeue-ExtBdIta.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
